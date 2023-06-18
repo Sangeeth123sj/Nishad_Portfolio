@@ -405,7 +405,7 @@ header {
 	right: 0;
 	background-color: #fff;
 	overflow-x: hidden;
-	padding-top: 60px;
+	padding-top: 80px;
 	transition: 0.5s;
 	}
 	
@@ -639,3 +639,9 @@ header {
 	  }
 	  
   
+
+	
+
+	  .banner-image{
+		  width: 100%;
+	  }

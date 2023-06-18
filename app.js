@@ -36,7 +36,13 @@ $(document).ready(function() {
       $('.sidenav').removeClass('open');
     });
     
+
+
   });
 
   
+// fullscreen imager
+function openFullScreen(imageSrc) {
+  window.open(imageSrc, "_blank", "fullscreen=yes");
+}
 
